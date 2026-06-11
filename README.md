@@ -34,7 +34,7 @@ A fun and colorful calculator built using **HTML, CSS, and JavaScript**. This pr
 ## 📂 Project Structure
 
 ```text
-Unicorn-Magic-Calculator/
+Unicorn_Magic_Calculator/
 │
 ├── index.html
 ├── style.css
