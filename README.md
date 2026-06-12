@@ -47,7 +47,7 @@ Unicorn_Magic_Calculator/
 
 ## 🚀 How to Run
 
-1. Download or clone the repository.
+1. Download the repository.
 2. Open the project folder.
 3. Make sure the image and sound files are inside the **Image** folder.
 4. Open `index.html` in your browser.
